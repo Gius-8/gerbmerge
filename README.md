@@ -148,8 +148,8 @@ sudo pip install simpleparse
 <p>Donwload and unpack <i>gerbmerge</i> sources, navigate to its folder and run:
 <ul>
 <pre>
-python setyp.py sdist
-sudo pip istall dist/gerbmerge-1.9.4.tar.gz
+python setup.py sdist
+sudo pip install dist/gerbmerge-1.9.4.tar.gz
 </pre>
 </ul>
 <p>Now you can use it by running <i>gerbmerge</i>.
